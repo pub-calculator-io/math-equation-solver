@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ PEMDAS calculator solves mathematical expressions with the order of operations -
 == Description ==
 
 PEMDAS calculator solves mathematical expressions with the order of operations - brackets, exponents, multiplication, division, addition, and subtraction.
+
+__Shortcode__
+
+Use the Math Equation Solver shortcode:
+
+`[ci_math_equation_solver]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_math_equation_solver/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Math Equation Solver](https://www.calculator.io/math-equation-solver/ "Math Equation Solver Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Math Equation Solver.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_math_equation_solver]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Math Equation Solver to the sidebar through the `Appearance -> Widgets -> Math Equation Solver` menu in WordPress.
+* Add the following code: `<?php display_ci_math_equation_solver(); ?>` to your template where you would like the Math Equation Solver to appear.
 
 == Screenshots ==
 1. The Math Equation Solver Input Form.
