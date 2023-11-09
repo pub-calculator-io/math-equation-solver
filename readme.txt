@@ -13,6 +13,8 @@ PEMDAS calculator solves mathematical expressions with the order of operations -
 
 PEMDAS calculator solves mathematical expressions with the order of operations - brackets, exponents, multiplication, division, addition, and subtraction.
 
+[Math Equation Solver Homepage](https://www.calculator.io/math-equation-solver/ "Math Equation Solver Homepage")
+
 __Shortcode__
 
 Use the Math Equation Solver shortcode:
