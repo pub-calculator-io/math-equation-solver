@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 PEMDAS calculator solves mathematical expressions with the order of operations - brackets, exponents, multiplication, division, addition, and subtraction.
 
-== Description ==
-
-PEMDAS calculator solves mathematical expressions with the order of operations - brackets, exponents, multiplication, division, addition, and subtraction.
-
 [https://www.calculator.io/math-equation-solver/](https://www.calculator.io/math-equation-solver/)
 
-__Math Equation Solver Shortcode__
+== Usage ==
+
+Add the Math Equation Solver shortcode to your page, post or sidebar:
 
 `[ci_math_equation_solver]`
 
-== Installation ==
+Add the following code to your template where you would like the Math Equation Solver to appear:
 
-1. Upload the /ci_math_equation_solver/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Math Equation Solver](https://www.calculator.io/math-equation-solver/ "Math Equation Solver Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Math Equation Solver Usage ==
-
-* Add the shortcode `[ci_math_equation_solver]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_math_equation_solver(); ?>` to your template where you would like the Math Equation Solver to appear.
+`<?php display_ci_math_equation_solver(); ?>`
 
 == Screenshots ==
 
 1. The Math Equation Solver Input Form.
 2. The Math Equation Solver Calculation Results.
 
-== Libraries used in Math Equation Solver ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Math Equation Solver /ci_math_equation_solver/ folder to the /wp-content/plugins/ directory.
+2. Activate the Math Equation Solver plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Math Equation Solver
