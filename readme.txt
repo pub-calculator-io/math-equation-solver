@@ -1,6 +1,6 @@
 === Math Equation Solver by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: math equation solver, algebraic equations, equation solution, solve for x, quadratic equation, linear equation, polynomial equation, equation calculator, mathematical problem solver, equation solver online
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
