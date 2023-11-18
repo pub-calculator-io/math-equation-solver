@@ -1,4 +1,4 @@
-# Math Equation Solver WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Math Equation Solver Widget for WordPress
 
 PEMDAS calculator solves mathematical expressions with the order of operations - brackets, exponents, multiplication, division, addition, and subtraction.
 
