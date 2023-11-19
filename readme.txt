@@ -1,4 +1,4 @@
-=== Math Equation Solver by www.calculator.io ===
+=== CI Math equation solver ===
 Contributors: calculatorio
 Tags: math equation solver, algebraic equations, equation solution, solve for x, quadratic equation, linear equation, polynomial equation, equation calculator, mathematical problem solver, equation solver online
 Requires at least: 5.0

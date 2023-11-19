@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Math Equation Solver by www.calculator.io
+Plugin Name: CI Math equation solver
 Plugin URI: https://www.calculator.io/math-equation-solver/
 Description: PEMDAS calculator solves mathematical expressions with the order of operations - brackets, exponents, multiplication, division, addition, and subtraction.
 Version: 1.0.0
