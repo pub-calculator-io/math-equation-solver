@@ -7,7 +7,7 @@ PEMDAS calculator solves mathematical expressions with the order of operations -
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/math-equation-solver/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /math-equation-solver-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Math Equation Solver](https://www.calculator.io/math-equation-solver/ "Math Equation Solver Homepage") plugin through the "Plugins" menu in WordPress.
 
