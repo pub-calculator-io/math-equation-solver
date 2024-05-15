@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Math Equation S
 == Screenshots ==
 
 1. The Math Equation Solver Input Form.
-2. The Math Equation Solver Calculation Results.
 
 == Installation ==
 
